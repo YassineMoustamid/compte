@@ -1,0 +1,14 @@
+C:\Users\lenovo\Downloads\compte\compte\obj\Debug\compte.csprojAssemblyReference.cache
+C:\Users\lenovo\Downloads\compte\compte\obj\Debug\compte.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\compte\compte\bin\Debug\compte.exe.config
+C:\Users\lenovo\Downloads\compte\compte\bin\Debug\compte.exe
+C:\Users\lenovo\Downloads\compte\compte\bin\Debug\compte.pdb
+C:\Users\lenovo\Downloads\compte\compte\obj\Debug\compte.exe
+C:\Users\lenovo\Downloads\compte\compte\obj\Debug\compte.pdb
+C:\Users\admin\Downloads\compte\compte\bin\Debug\compte.exe.config
+C:\Users\admin\Downloads\compte\compte\bin\Debug\compte.exe
+C:\Users\admin\Downloads\compte\compte\bin\Debug\compte.pdb
+C:\Users\admin\Downloads\compte\compte\obj\Debug\compte.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\compte\compte\obj\Debug\compte.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\compte\compte\obj\Debug\compte.exe
+C:\Users\admin\Downloads\compte\compte\obj\Debug\compte.pdb
